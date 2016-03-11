@@ -1,0 +1,41 @@
+/*body { 
+	padding-top: 70px; }*/
+
+.indexB{
+	background-color: #FFEAD5;
+	margin-bottom: 1.5em;
+	padding: 2em 2em;
+
+}
+
+.navbar-default .navbar-brand{
+	color: #D90000;
+	font-weight: bold;
+}
+
+.navbar-brand{
+	font-size: 26px;
+	padding-left: 30px;
+	height: 60px;
+	line-height: 30px;
+}
+
+#header-nav{
+background-color: #FFFFAA;
+border-color: #D90000
+}
+
+.nav > li{
+	text-align: center;
+}
+
+.navbar-default .navbar-nav > li > a{
+	color: #D90000;
+	font-size: 16px;
+}
+
+
+
+.navbar-default .navbar-toggle .icon-bar{
+	background-color: #D90000;
+}
